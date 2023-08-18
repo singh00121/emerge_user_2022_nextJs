@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://emergecomputers.com
+
+# Sitemaps
+Sitemap: https://emergecomputers.com/sitemap.xml

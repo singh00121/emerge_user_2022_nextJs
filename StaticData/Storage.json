@@ -1,0 +1,46 @@
+{
+    "Storage": [
+      {
+        "id": 1,
+      "title": "Seagate One Touch 1 TB External SSD",
+      "Sorttitle": "Seagate One Touch 1 TB External SSD ",
+      "description": "Seagate One Touch 1 TB External SSD up to 1030 Mb/s, for Windows and Mac, with Android App, 3 yr Data Recovery Services, Portable Solid State Drive Black with 4 Mos Adobe CC Photo (STKG1000400)",
+      "price": "8,999",
+      "Capacity": "1 TB",
+      "Brand": "Seagate",
+      "Connectivity": "USB",
+      "category": "Storage",
+      "Color": "Black",
+      "thumbnail": "/public/Seagate.png",
+      "images": []
+      },
+      {
+        "id": 2,
+      "title": "AmazonBasics Portable SSD",
+      "Sorttitle": "AmazonBasics Portable SSD ",
+      "description": "AmazonBasics Portable SSD 512GB, Upto 2000MB/s, External SSD, USB 3.2 Gen 2x2, USB-C",
+      "price": "5,499",
+      "Capacity": "512 GB",
+      "Brand": "AmazonBasics",
+      "Connectivity": "USB",
+      "category": "Storage",
+      "Color": "Black",
+      "thumbnail": "/public/AmazonBasics.png",
+      "images": []
+      }, 
+      {
+        "id": 3,
+      "title": "PNY Elite 480GB USB 3.0",
+      "Sorttitle": "PNY Elite 480GB USB 3.0",
+      "description": "PNY Elite 480GB USB 3.0 Portable Solid State Drive (SSD) - (PSD1CS1050-480-FFS)      ",
+      "price": "5,590",
+      "Capacity": "480 GB",
+      "Brand": "PNY",
+      "Connectivity": "USB",
+      "category": "Storage",
+      "Color": "Black",
+      "thumbnail": "/public/PNY.png",
+      "images": []
+      }
+    ]
+}
